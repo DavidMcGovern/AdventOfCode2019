@@ -38,8 +38,8 @@
     out))
 
 
-(defparameter *intersection-list* (print (get-intersections (paths-to-coords (get-lists "input")))))
-;; saving it to save like 10mins
+(defparameter *intersection-list*
+  (print (get-intersections (paths-to-coords (get-lists "input"))))) ; saving it to save like 10mins
 
 
 ;;; Solution to part one
