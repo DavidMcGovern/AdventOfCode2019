@@ -11,7 +11,7 @@
   (loop for i from 0 for item in list
      collect (if (= i (nth (+ index 3) list))
 		 (funcall function (nth (nth (+ index 1) list) list)
-			           (nth (nth (+ index 2) list) list))
+			  (nth (nth (+ index 2) list) list))
 		 item)))
 
 ;; one iteration
