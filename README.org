@@ -6,3 +6,20 @@
 [[file:Day2/gravity.lisp]]
 * Day 3
 [[file:Day3/pipes.lisp]]
+
+* Day 4
+[[file:Day4/password.lisp]]
+
+* Day 5
+Giving up on intcode here, might come back later
+
+* Day 6
+this wasn't too bad
+[[file:Day6/orbits.lisp][file:Day6/orbits.lisp]]
+
+* Day 7
+Still done with intcode
+
+* Day 8
+up next
+[[file:Day8/BOIS.lisp]]
